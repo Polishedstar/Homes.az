@@ -1,0 +1,13 @@
+{
+    "name": "Homes.az Workflow",
+    "description": "Homes.az starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
